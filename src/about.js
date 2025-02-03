@@ -1,0 +1,2 @@
+const about = `<h1>About us</h1><p class="about">Nestled in the heart of the city, La Bella Cucina is your gateway to a genuine Italian dining experience. Founded in 2025 by culinary enthusiast Giuseppe Rossi, our restaurant brings a slice of Italy to your table. We pride ourselves on our commitment to quality, authenticity, and exceptional service. Our team of talented chefs and friendly staff work tirelessly to ensure every visit is a memorable one. Join us and become part of our La Bella Cucina family.</p>`;
+export default about;
