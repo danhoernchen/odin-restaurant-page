@@ -1,7 +1,7 @@
 const menu = `<h1>Our Menu</h1>
 <div class="menu-table">
   <h3>Anitpasti</h3>
-  <ul>
+  <ul class="w3-table">
     <li>
       <span class="menu-item">Bruschetta al Pomodoro: </span>Grilled bread
       topped with fresh tomatoes, basil, and a drizzle of olive oil.
@@ -12,7 +12,7 @@ const menu = `<h1>Our Menu</h1>
     </li>
   </ul>
   <h3>Pasta</h3>
-  <ul>
+  <ul class="w3-table">
     <li>
       <span class="menu-item">Spaghetti Carbonara: </span>Classic Roman pasta
       with eggs, pecorino cheese, pancetta, and black pepper.
@@ -23,7 +23,7 @@ const menu = `<h1>Our Menu</h1>
     </li>
   </ul>
   <h3>Secondi</h3>
-  <ul>
+  <ul class="w3-table">
     <li>
       <span class="menu-item">Pollo alla Parmigiana: </span>Breaded chicken
       breast topped with marinara sauce and melted mozzarella.
@@ -34,7 +34,7 @@ const menu = `<h1>Our Menu</h1>
     </li>
   </ul>
   <h3>Dolci</h3>
-  <ul>
+  <ul class="w3-table">
     <li>
       <span class="menu-item">Tiramisu: </span>Espresso-soaked ladyfingers
       layered with mascarpone cheese and cocoa.
